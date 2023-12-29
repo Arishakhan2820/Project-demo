@@ -1,3 +1,4 @@
+![logo](https://github.com/Arishakhan2820/Project-demo/blob/main/Github%20banner%202-01.jpg)
 <h1 align="center">Hi 👋, I'm Arisha khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
